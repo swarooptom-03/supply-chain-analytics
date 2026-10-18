@@ -147,3 +147,13 @@ Never commit `.env`, passwords, access tokens, or private credentials. The `.git
 ## Project Status
 
 The core data preparation, SQL analysis, Tableau dashboards, documentation, and initial GitHub publication are complete. Further improvements can include adding dashboard screenshots and expanding the analysis with validated operational context.
+
+## Dashboard Previews
+
+### 1. Supply Chain Business Performance Dashboard
+
+![Business Performance Dashboard](images/dashboard_business_performance.png)
+
+### 2. Supply Chain Operations & Delivery Dashboard
+
+![Operations & Delivery Dashboard](images/dashboard_operations_delivery.png)
